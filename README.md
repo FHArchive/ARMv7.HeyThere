@@ -1,6 +1,6 @@
 # ARMv7.HeyThere
 ARMv7 assembly code that outputs the text "Hey there" to standard output (the screen)
-# Information 
+# Language information 
 This program has been written in ARMv7 assembly language as on the Raspberry Pi. These can be purchased online for around £10-30. The starter set can be purchased for approximately £50.
 # How to run
 ## Method 1 
